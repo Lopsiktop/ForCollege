@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorokin_WPF", "Sorokin_WPF\Sorokin_WPF.csproj", "{FE58D773-2456-4AB3-8490-330298A6BF80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE58D773-2456-4AB3-8490-330298A6BF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE58D773-2456-4AB3-8490-330298A6BF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE58D773-2456-4AB3-8490-330298A6BF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE58D773-2456-4AB3-8490-330298A6BF80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1328AEA-41F8-4519-9848-776535F24F20}
+	EndGlobalSection
+EndGlobal
